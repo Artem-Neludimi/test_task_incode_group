@@ -1,6 +1,6 @@
 {
-    "name": "test_task_incode_group",
-    "short_name": "test_task_incode_group",
+    "name": "test_task",
+    "short_name": "test_task",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

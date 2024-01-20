@@ -1,4 +1,4 @@
-package com.example.test_task_incode_group
+package com.example.test_task
 
 import io.flutter.embedding.android.FlutterActivity
 
